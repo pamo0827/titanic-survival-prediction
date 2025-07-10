@@ -1,0 +1,10 @@
+Title
+Fare
+Age
+FamilySize
+Pclass
+AgeGroup
+HasCabin
+Parch
+FareGroup
+Sex
